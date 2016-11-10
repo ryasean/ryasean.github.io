@@ -1,1 +1,34 @@
+h1 {
+    color: white; 
+font-family: Herculanum;
+text-align: center    
+}
 
+body {
+    background-color: crimson;
+}
+
+#Summary {
+    color: aquamarine;
+    font-family: Noteworthy;
+    text-align: center
+}   
+#logo {
+    display:block;
+    margin: auto;
+    width: 22%;
+}
+
+#history {
+    color: aqua;
+    font-family:noteworthy;
+    text-align:center; 
+
+}
+
+h3 {
+    color: greenyellow; 
+font-family: noteworthy;
+text-align: center 
+    
+}
